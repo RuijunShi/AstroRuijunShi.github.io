@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://https://ruijunshi.github.io</id>
+    <id>https://ruijunshi.github.io</id>
     <title>AstroRuijunShi</title>
-    <updated>2021-06-20T09:01:36.795Z</updated>
+    <updated>2021-06-20T09:05:04.386Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://https://ruijunshi.github.io"/>
-    <link rel="self" href="https://https://ruijunshi.github.io/atom.xml"/>
+    <link rel="alternate" href="https://ruijunshi.github.io"/>
+    <link rel="self" href="https://ruijunshi.github.io/atom.xml"/>
     <subtitle>路漫漫其修远兮，吾将上下而求索</subtitle>
-    <logo>https://https://ruijunshi.github.io/images/avatar.png</logo>
-    <icon>https://https://ruijunshi.github.io/favicon.ico</icon>
+    <logo>https://ruijunshi.github.io/images/avatar.png</logo>
+    <icon>https://ruijunshi.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, AstroRuijunShi</rights>
     <entry>
         <title type="html"><![CDATA[Hello World]]></title>
-        <id>https://https://ruijunshi.github.io/post/hello-gridea/</id>
-        <link href="https://https://ruijunshi.github.io/post/hello-gridea/">
+        <id>https://ruijunshi.github.io/post/hello-gridea/</id>
+        <link href="https://ruijunshi.github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>在这里写一些笔记</p>
